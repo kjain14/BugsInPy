@@ -69,8 +69,6 @@ git clone https://github.com/kjain14/mutpy.git
 cd mutpy && python3 setup.py install
 cd ..
 
-pip install pytest
-
 rm -f mut_bugsinpy.py
 
 ###Adding mutpy_bugsinpy file
